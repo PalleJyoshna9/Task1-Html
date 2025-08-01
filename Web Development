@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My First Webpage</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>Welcome to My Webpage</h1>
+  <h2>This is a Subheading</h2>
+  <p>This is a simple paragraph about me.</p>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkOFHXePlMvK6nkR8TP4ZeuxmJYp0zivdYjQ&s" alt="Waterfalls" />
+  <p>Visit <a href="https://www.example.com" target="_blank">Example Website</a></p>
+</body>
+</html>
